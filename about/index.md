@@ -1,14 +1,15 @@
 ---
-title: about
-date: 2017-03-19 18:10:43
+title: Calendar
+date: 2019-09-20 12:41:41
+tags: Diary
+categories: memo
+top: 0
 ---
 
-你好哇，我是Elisa! 这是我的个人博客，我在这里主要使用中文写作。
+Want to hangout/grab a drink/arrange an online chatting? 
+Add a new event [here](https://calendly.com/elisatsai), or invite me via ZXRzYWkwNDJAZ21haWwuY29t (Base64 encoding).
 
-我会在这里记录一些技术，也会记录其他的东西。技术类在[cs](http://etsai.site/categories/cs/)目录下，绘画和歌曲在[apricity](http://etsai.site/categories/apricity/)目录下，剩下的一些在[memo](http://etsai.site/categories/memo/)里。
+<!--more-->
 
-我的tag较目录更杂乱一些，[Entry Stamp](http://etsai.site/tags/EntryStamp/)是我的一些小收藏，是我到这些互联网信息流中的有趣岛屿旅游后留下的护照上的入境戳集合。
+<iframe src="https://calendar.google.com/calendar/embed?src=etsai042%40gmail.com&ctz=America%2FDetroit&amp;title=Elisa%20Tsai&amp;mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-如你所见，这里并不是一个单纯的技术博客，还有我的一些胡言乱语。我本来觉得写这些东西有一些不好意思，但我"bear in mind that life is ultimately meaningless in the first place":-D
-
-祝你拥有阳光明媚的一天。

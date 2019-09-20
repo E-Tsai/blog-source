@@ -2,9 +2,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
-*Backup of markdown files and images for [Elisa's blog](https://etsai.site).*
-
-
+*Backup of markdown files and images for [Elisa's blog](https://etsai.site).* 
 
 ## Setup
 
@@ -37,7 +35,13 @@ Install next theme:
 git clone https://github.com/theme-next/hexo-theme-next themes/next
 ```
 
-Then change the infomation in two configure files.
+Change the information in two configure files.
+
+Add `CNAME` under the `public` directory.
+
+```
+etsai.site
+```
 
 ## Personalize
 

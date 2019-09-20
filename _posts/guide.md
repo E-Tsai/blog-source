@@ -6,12 +6,11 @@ categories: apricity
 top: 1000
 ---
 
-# 关于我
-
+# About Me
 * Welcome welcome! Please take a look at [my proudest work](https://etsai.site/2019/09/05/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/2018/10/20/Total-Perspective-Vortex/)).
-* 你好哇，我是Elisa! 这是我的个人博客，我在这里主要使用中文写作。
+* 你好哇，我是Elisa，这是我的个人博客，我在这里主要使用中文写作。
 
-# 合集
+# Articles
 
 * 技术:  [Computer Science](http://etsai.site/categories/cs/)目录
 * 漫画:  [Comics](http://etsai.site/tags/Manga/)
@@ -40,4 +39,6 @@ I do quick sketch in my spare time. [Check it out](http://www.paulgraham.com/hp.
 
 I mix songs too. Check out [my music page](https://music.163.com/#/artist?id=12158117), or find me at [SoundCloud](https://soundcloud.com/elisastayshere).
 \* For some mysterious reasons my music is not available outside China.
+
+Check my [Availability](https://etsai.site/about/).
 

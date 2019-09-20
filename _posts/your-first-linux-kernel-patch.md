@@ -6,7 +6,7 @@ categories: cs
 ---
 
 这是一个linux内核补丁提交教程，其中有不少内容来自[Kernel Newbies](https://kernelnewbies.org/)，也有部分自己创作的。
-书籍推荐: [Linux Device Drivers](http://lwn.net/Kenel/LDD3/)
+书籍推荐: [Linux Device Drivers](https://lwn.net/Kernel/LDD3/)
 
 <!-- more -->
 ## 环境配置&初步编译
