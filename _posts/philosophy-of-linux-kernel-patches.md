@@ -1,8 +1,8 @@
 ---
 title: Linux内核补丁的哲学
 date: 2019-03-11 10:38:22
-tags: [Technics, Systems]
-categories: cs
+tags: [technics, systems]
+categories: CS
 ---
 
 [英文原文](https://kernelnewbies.org/PatchPhilosophy)

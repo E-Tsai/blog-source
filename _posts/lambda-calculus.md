@@ -2,7 +2,7 @@
 title: lambda-calculus
 date: 2018-02-28 14:24:58
 tags: programming-language
-categories: cs
+categories: CS
 ---
 
 

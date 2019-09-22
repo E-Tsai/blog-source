@@ -1,8 +1,8 @@
 ---
 title: Total-Perspective-Vortex-EN
 date: 2019-09-05 19:33:57
-tags: Manga
-categories: apricity
+tags: comics
+categories: Apricity
 ---
 
 Adapted from sci-fi: Restaurant at the End of the Universe, chapter 10 and chapter 11.

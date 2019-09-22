@@ -1,8 +1,8 @@
 ---
 title: Hakuna Matata
 date: 2019-09-12 23:33:32
-tags: [Diary, EntryStamp]
-categories: memo
+tags: [diary, entry-stamp]
+categories: Memo
 ---
 
 I come back to watch these videos every time I feel uneasy, anxious or upset about certain trivial life events...

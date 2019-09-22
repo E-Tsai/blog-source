@@ -1,8 +1,8 @@
 ---
 title: 音频格式：MP3, WAV的对比与实现
 date: 2018-07-19 21:48:45
-tags: [Music, Technics]
-categories: cs
+tags: [music, technics]
+categories: CS
 ---
 音频文件格式相关。
 

@@ -1,11 +1,11 @@
 ---
 title: You're A Cat
 date: 2019-09-13 00:06:13
-tags: [songs, Music]
-categories: apricity
+tags: [songs, music]
+categories: Apricity
 ---
 
-写给我的三只猫猫：黑黑，花花和汤圆。
+写给我的三只猫：黑黑，花花和汤圆。
 
 <!--more-->
 

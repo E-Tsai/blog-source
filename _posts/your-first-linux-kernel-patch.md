@@ -1,8 +1,8 @@
 ---
 title: 你的第一个Linux内核补丁
 date: 2019-04-18 10:17:15
-tags: [Technics, Systems]
-categories: cs
+tags: [technics, systems]
+categories: CS
 ---
 
 这是一个linux内核补丁提交教程，其中有不少内容来自[Kernel Newbies](https://kernelnewbies.org/)，也有部分自己创作的。

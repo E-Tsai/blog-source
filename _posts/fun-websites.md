@@ -1,8 +1,8 @@
 ---
 title: 有趣的网站/频道
 date: 2018-06-26 17:55:19
-tags: EntryStamp
-categories: memo
+tags: entry-stamp
+categories: Memo
 ---
 
 有趣的网站：入境戳集合。

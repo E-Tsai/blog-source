@@ -1,8 +1,8 @@
 ---
 title: 一些有用&有趣的网址(updating)
 date: 2017-07-04 18:07:23
-tags: EntryStamp
-categories: memo
+tags: entry-stamp
+categories: Memo
 ---
 如题。
 <!--more-->

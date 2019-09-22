@@ -1,8 +1,8 @@
 ---
 title: Total-Perspective-Vortex (绝对透视漩涡)
 date: 2018-10-20 23:48:12
-tags: Manga
-categories: apricity
+tags: comics
+categories: Apricity
 ---
 
 这个小短漫改编自科幻小说《宇宙尽头的餐馆》第十章和第十一章。

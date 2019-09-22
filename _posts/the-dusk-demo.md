@@ -2,7 +2,7 @@
 title: The Dusk Demo
 date: 2018-06-26 16:47:02
 tags: songs
-categories: apricity
+categories: Apricity
 ---
 
 # 黄昏 demo

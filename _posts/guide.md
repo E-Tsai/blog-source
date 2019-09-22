@@ -1,8 +1,8 @@
 ---
 title: Hi There
 date: 2018-10-20 23:29:39
-tags: Diary
-categories: apricity
+tags: diary
+categories: Apricity
 top: 1000
 ---
 
@@ -12,11 +12,11 @@ top: 1000
 
 # Articles
 
-* 技术:  [Computer Science](http://etsai.site/categories/cs/)目录
-* 漫画:  [Comics](http://etsai.site/tags/Manga/)
-* 绘画/歌曲:  [Songs and Paintings](http://etsai.site/categories/apricity/)
-* 随笔：  [Memo](http://etsai.site/categories/memo/)
-* 小收藏:  [Entry Stamp](http://etsai.site/tags/EntryStamp/)
+* 技术:  [Computer Science](http://etsai.site/categories/CS/)目录
+* 漫画:  [Comics](http://etsai.site/tags/comics/)
+* 绘画/歌曲:  [Songs and Paintings](http://etsai.site/categories/Apricity/)
+* 随笔：  [Memo](http://etsai.site/categories/Memo/)
+* 小收藏:  [Entry Stamp](http://etsai.site/tags/entry-stamp/)
 
 
 All the content in this blog is under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, whatever it means.
