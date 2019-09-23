@@ -1,7 +1,7 @@
 ---
 title: Linux中的fork()是怎么实现的
 date: 2019-09-22 02:02:07
-tags: [technics, systems]
+tags: [technics, systems, CN]
 categories: CS
 ---
 Fork和它的变体是Unix系统创建进程 (process) 的方法，在这篇文章里我们会探索它是如何实现的。

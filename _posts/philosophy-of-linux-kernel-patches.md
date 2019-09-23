@@ -1,7 +1,7 @@
 ---
 title: Linux内核补丁的哲学
 date: 2019-03-11 10:38:22
-tags: [technics, systems]
+tags: [technics, systems, CN, translated]
 categories: CS
 ---
 

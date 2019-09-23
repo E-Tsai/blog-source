@@ -1,10 +1,10 @@
 ---
-title: 一些有用&有趣的网址(updating)
+title: Website Archive (updating)
 date: 2017-07-04 18:07:23
-tags: entry-stamp
+tags: [entry-stamp,EN]
 categories: Memo
 ---
-如题。
+A collection.
 <!--more-->
 
 # School Related

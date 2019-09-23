@@ -1,7 +1,7 @@
 ---
-title: You're A Cat
+title: 你是一只猫
 date: 2019-09-13 00:06:13
-tags: [songs, music]
+tags: [songs, music, CN]
 categories: Apricity
 ---
 
@@ -15,9 +15,8 @@ categories: Apricity
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/670594079&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 ## 歌词
-  
+
 你是长着毛的鳄鱼 
 You are a furry crocodile  
 长尾巴的小鸡

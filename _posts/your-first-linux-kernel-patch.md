@@ -1,7 +1,7 @@
 ---
 title: 你的第一个Linux内核补丁
 date: 2019-04-18 10:17:15
-tags: [technics, systems]
+tags: [technics, systems, CN, translated]
 categories: CS
 ---
 

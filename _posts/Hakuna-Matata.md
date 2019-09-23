@@ -1,7 +1,7 @@
 ---
 title: Hakuna Matata
 date: 2019-09-12 23:33:32
-tags: [diary, entry-stamp]
+tags: [diary, entry-stamp, EN]
 categories: Memo
 ---
 

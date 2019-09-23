@@ -1,7 +1,7 @@
 ---
-title: Total-Perspective-Vortex (绝对透视漩涡)
+title: Total Perspective Vortex (绝对透视漩涡)
 date: 2018-10-20 23:48:12
-tags: comics
+tags: [comics, CN]
 categories: Apricity
 ---
 

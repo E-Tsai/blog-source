@@ -1,7 +1,7 @@
 ---
-title: Total-Perspective-Vortex-EN
+title: Total Perspective Vortex
 date: 2019-09-05 19:33:57
-tags: comics
+tags: [comics, EN]
 categories: Apricity
 ---
 

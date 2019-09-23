@@ -1,7 +1,7 @@
 ---
 title: 从启动盘开始写一个简易操作系统
 date: 2017-07-09 19:02:08
-tags: systems
+tags: [systems, CN]
 categories: CS
 ---
 

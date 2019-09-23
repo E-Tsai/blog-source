@@ -1,7 +1,7 @@
 ---
 title: 有趣的网站/频道
 date: 2018-06-26 17:55:19
-tags: entry-stamp
+tags: [entry-stamp, CN]
 categories: Memo
 ---
 

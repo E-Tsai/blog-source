@@ -1,7 +1,7 @@
 ---
-title: The Dusk Demo
+title: 黄昏
 date: 2018-06-26 16:47:02
-tags: songs
+tags: [songs, music, CN]
 categories: Apricity
 ---
 
@@ -14,7 +14,6 @@ categories: Apricity
 这是日本歌手手嶌葵的歌，可点击[这里](https://soundcloud.com/elisastayshere/demo-the-dusk) 前往SoundCloud下载。
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/452549886&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 ```
 lyrics:
 [00:09]我站在无人的山岗 (Standing on a barren hill)
