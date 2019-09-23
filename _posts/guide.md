@@ -29,16 +29,15 @@ All the content in this blog is under a <a rel="license" href="http://creativeco
 # More About Me
 
 
-Besides coding, I am interested in:
+Besides coding, I am also interested in:
 
 * **Staying alive.**
-
 * I fully agree with [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))'s statement in [Hackers And Painters](http://www.paulgraham.com/hp.html):
   "Hackers and painters are among the most alike."
   I do quick sketch in my spare time. [Check it out](http://www.paulgraham.com/hp.html).
-
 * I mix songs too. Check out [my music page](https://music.163.com/#/artist?id=12158117), or find me at [SoundCloud](https://soundcloud.com/elisastayshere).
   \* For some mysterious reasons my music is not available outside China.
-
 * Wanna hangout/grab a drink/arrange an online meeting with me? Check my [availability](https://etsai.site/about/) here!
+
+[My academic homepage](http://home.ustc.edu.cn/~elisa/).
 
