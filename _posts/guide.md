@@ -7,7 +7,7 @@ top: 1000
 ---
 
 # Hi There
-Welcome welcome! Please take a look at [my proudest work](https://etsai.site/2019/09/05/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/2018/10/20/Total-Perspective-Vortex/)).
+Welcome welcome! Please take a look at [my proudest work](https://etsai.site/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/Total-Perspective-Vortex/)).
 
 你好哇，我是Elisa，这是我的个人博客，我在这里主要使用中文写作。
 
@@ -15,7 +15,7 @@ Welcome welcome! Please take a look at [my proudest work](https://etsai.site/201
 
 * 技术:  [Computer Science](http://etsai.site/categories/CS/) 
 * 漫画:  [Comics](http://etsai.site/tags/comics/) 
-* 绘画/歌曲:  [Songs and Paintings](http://etsai.site/categories/Apricity/) 
+* 绘画/歌曲: [Songs and Paintings](http://etsai.site/categories/Apricity/) 
 * 随笔：  [Memo](http://etsai.site/categories/Memo/) 
 * 小收藏:  [Entry Stamp](http://etsai.site/tags/entry-stamp/) 
 
@@ -34,7 +34,7 @@ Besides coding, I am also interested in:
 * **Staying alive.**
 * I fully agree with [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))'s statement in [Hackers And Painters](http://www.paulgraham.com/hp.html):
   "Hackers and painters are among the most alike."
-  I do quick sketch in my spare time. [Check it out](http://www.paulgraham.com/hp.html).
+  I do quick sketch in my spare time. [Check it out](https://www.instagram.com/elisatdraws/).
 * I mix songs too. Check out [my music page](https://music.163.com/#/artist?id=12158117), or find me at [SoundCloud](https://soundcloud.com/elisastayshere).
   \* For some mysterious reasons my music is not available outside China.
 * Wanna hangout/grab a drink/arrange an online meeting with me? Check my [availability](https://etsai.site/about/) here!
