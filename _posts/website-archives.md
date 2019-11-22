@@ -7,11 +7,13 @@ categories: Memo
 A collection.
 <!--more-->
 
-# School Related
+# Visualizations
 
-* [Github Student Pack](https://education.github.com/pack/offers) 
-* [评课社区](https://icourse.club/) 
-* [CS@USTC](https://www.zhihu.com/question/44851462) 
+* [Timeline of Earth](http://timelineofearth.com/) 
+* [Life in weeks](https://waitbutwhy.com/2014/05/life-weeks.html) & [Count down](http://count.life/?showClock=true&birthday=1997-03-05&lifespan=80&background=green) 
+* [Who Runs China](https://news.cgtn.com/event/2019/whorunschina/index.html) 
+* [Algorithms](https://visualgo.net/en) & [Chinese version](https://visualgo.net/en)  
+* [Prime Spiral (Ulam Spiral)](https://www.alpertron.com.ar/ULAM.HTM) 
 
 # Widgets
 
@@ -32,13 +34,21 @@ A collection.
 * [strategyzer](https://strategyzer.com/canvas) # business model on one page
 * [Citation](http://www.easybib.com/) 
 * [XHTML/HTML check](http://validator.w3.org/) 
-* [Death Calendar](http://deathcalendar.com/) 你度过的人生，[非可视化](http://www.countmydays.com/), [week counter](https://www.timeanddate.com)
+* [Death Calendar](http://deathcalendar.com/) # 你度过的人生，[非可视化](http://www.countmydays.com/), [week counter](https://www.timeanddate.com)
 * [繁体电子书](http://haodoo.net/)
+* [unminus](https://www.unminus.com) # Free Music for Your Projects. Royalty Free. No Attribution.
 * [PDF online 6-in-1 Converter](https://online2pdf.com/multiple-pages-per-sheet) 
+* [terminal to svg](https://github.com/nbedos/termtosvg) 
+* [Convert curl syntax to Python, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, Rust](https://curl.trillworks.com/) 
+* [Generates HTML code from hand-drawn website mockups](https://github.com/ashnkumar/sketch-code) 
 
 ## Music
 
 * [七线阁](http://www.dnyyjcw.com/forum.php) 
+
+## Stats I didn't know I wanted to know
+
+[passport index](https://www.passportindex.org/) 
 
 # :-D
 

@@ -7,17 +7,17 @@ top: 1000
 ---
 
 # Hi There
-Welcome welcome! Please take a look at [my proudest work](https://etsai.site/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/Total-Perspective-Vortex/)).
+Welcome welcome! 
 
 你好哇，我是Elisa，这是我的个人博客，我在这里主要使用中文写作。
 
 # Articles
 
-* 技术:  [Computer Science](http://etsai.site/categories/CS/) 
-* 漫画:  [Comics](http://etsai.site/tags/comics/) 
+* 技术: [Computer Science](http://etsai.site/categories/CS/) 
+* 漫画: [Comics](http://etsai.site/tags/comics/): [my proudest work](https://etsai.site/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/Total-Perspective-Vortex/)).
 * 绘画/歌曲: [Songs and Paintings](http://etsai.site/categories/Apricity/) 
-* 随笔：  [Memo](http://etsai.site/categories/Memo/) 
-* 小收藏:  [Entry Stamp](http://etsai.site/tags/entry-stamp/) 
+* 随笔: [Memo](http://etsai.site/categories/Memo/) 
+* 小收藏: [Entry Stamp](http://etsai.site/tags/entry-stamp/) 
 
 
 All the content in this blog is under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, whatever it means.
