@@ -5,6 +5,8 @@ tags: [entry-stamp, CN]
 categories: Memo
 ---
 
+![](https://img.shields.io/badge/Lan-CN-orange)
+
 有趣的网站：入境戳集合。
 
 <!--more-->

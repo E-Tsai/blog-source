@@ -5,6 +5,8 @@ tags: [diary, entry-stamp, EN]
 categories: Memo
 ---
 
+![](https://img.shields.io/badge/Lan-EN-blue)
+
 I come back to watch these videos every time I feel uneasy, anxious or upset about certain trivial life events...
 
 <!--more-->

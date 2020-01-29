@@ -4,6 +4,8 @@ date: 2017-07-04 18:07:23
 tags: [entry-stamp,EN]
 categories: Memo
 ---
+![](https://img.shields.io/badge/Lan-EN-blue)
+
 A collection.
 <!--more-->
 
@@ -41,6 +43,7 @@ A collection.
 * [terminal to svg](https://github.com/nbedos/termtosvg) 
 * [Convert curl syntax to Python, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, Rust](https://curl.trillworks.com/) 
 * [Generates HTML code from hand-drawn website mockups](https://github.com/ashnkumar/sketch-code) 
+* [Make custom badges](https://shields.io/category/size/) 
 
 ## Music
 

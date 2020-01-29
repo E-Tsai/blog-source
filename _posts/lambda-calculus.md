@@ -5,7 +5,7 @@ tags: [programming-language,CN]
 categories: CS
 ---
 
-
+![](https://img.shields.io/badge/Lan-CN-orange)
 
 关于[λ演算](https://zh.wikipedia.org/zh-sg/%CE%9B%E6%BC%94%E7%AE%97)的一些学习笔记。
 

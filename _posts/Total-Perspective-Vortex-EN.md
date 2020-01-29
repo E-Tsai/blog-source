@@ -5,6 +5,8 @@ tags: [comics, EN]
 categories: Apricity
 ---
 
+![](https://img.shields.io/badge/Lan-EN-blue)
+
 Adapted from sci-fi: Restaurant at the End of the Universe, chapter 10 and chapter 11.
 <!--more-->
 

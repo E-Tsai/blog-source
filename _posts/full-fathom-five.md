@@ -1,9 +1,13 @@
 ---
 title: Full Fathom Five
 date: 2019-11-02 22:58:00
-tags: [songs, music, EN]
+tags: [songs, music, EN, CN]
 categories: Apricity
 ---
+
+![](https://img.shields.io/badge/Lan-CN%2FEN-green)
+
+
 
 写给我的三只猫：黑黑，花花和汤圆。
 
@@ -16,7 +20,6 @@ An Acapella rearrangement.
 [Soundcloud](https://soundcloud.com/elisastayshere/full-fathom-five)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/706289107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 ## Lyrics
 
 Song: Méav Mhaolchatha

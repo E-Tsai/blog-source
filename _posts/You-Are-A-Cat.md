@@ -5,6 +5,8 @@ tags: [songs, music, CN]
 categories: Apricity
 ---
 
+![](https://img.shields.io/badge/Lan-CN%2FEN-green)
+
 写给我的三只猫：黑黑，花花和汤圆。
 
 <!--more-->

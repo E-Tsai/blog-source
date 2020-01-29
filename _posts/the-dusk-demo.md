@@ -1,11 +1,13 @@
 ---
 title: 黄昏
 date: 2018-06-26 16:47:02
-tags: [songs, music, CN]
+tags: [songs, music, CN, EN]
 categories: Apricity
 ---
 
 # 黄昏 demo
+
+![](https://img.shields.io/badge/Lan-CN%2FEN-green)
 
 一个改编/中文填词。
 

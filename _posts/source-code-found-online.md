@@ -5,6 +5,8 @@ tags: [comics, EN]
 categories: Apricity
 ---
 
+![](https://img.shields.io/badge/Lan-EN-blue)
+
 An alignment chart of source code found online. 
 
 <!--more-->

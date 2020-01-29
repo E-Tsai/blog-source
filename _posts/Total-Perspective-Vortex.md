@@ -5,6 +5,8 @@ tags: [comics, CN]
 categories: Apricity
 ---
 
+![](https://img.shields.io/badge/Lan-CN-orange)
+
 这个小短漫改编自科幻小说《宇宙尽头的餐馆》第十章和第十一章。
 <!--more-->
 

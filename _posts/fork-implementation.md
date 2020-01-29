@@ -4,8 +4,11 @@ date: 2019-09-22 02:02:07
 tags: [technics, systems, CN]
 categories: CS
 ---
+![](https://img.shields.io/badge/Lan-CN-orange)
+
 Fork和它的变体是Unix系统创建进程 (process) 的方法，在这篇文章里我们会探索它是如何实现的。
 <!--more-->
+
 ## Fork()简介
 
 在多任务实时操作系统内，我们需要一个由已经存在的进程创建子进程的方法。Unix系统使用系统调用来创建子进程，这是fork以及它的变体的工作。

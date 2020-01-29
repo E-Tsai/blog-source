@@ -1,4 +1,0 @@
----
-title: good-aliases
-tags:
----

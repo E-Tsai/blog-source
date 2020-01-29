@@ -4,6 +4,8 @@ date: 2018-07-19 21:48:45
 tags: [music, technics, CN]
 categories: CS
 ---
+![](https://img.shields.io/badge/Lan-CN-orange)
+
 音频文件格式相关。
 
  <!-- more -->

@@ -5,6 +5,8 @@ tags: [technics, systems, CN, translated]
 categories: CS
 ---
 
+![](https://img.shields.io/badge/Lan-CN-orange)
+
 [英文原文](https://kernelnewbies.org/PatchPhilosophy)
 
 <!-- more -->
