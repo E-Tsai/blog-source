@@ -13,29 +13,25 @@ A collection.
 
 * [Timeline of Earth](http://timelineofearth.com/) 
 * [Life in weeks](https://waitbutwhy.com/2014/05/life-weeks.html) & [Count down](http://count.life/?showClock=true&birthday=1997-03-05&lifespan=80&background=green) 
+* [Wind on the earth](https://earth.nullschool.net/) 
 * [Who Runs China](https://news.cgtn.com/event/2019/whorunschina/index.html) 
 * [Algorithms](https://visualgo.net/en) & [Chinese version](https://visualgo.net/en)  
+* [A day in the life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/?platform=hootsuite) 
 * [Prime Spiral (Ulam Spiral)](https://www.alpertron.com.ar/ULAM.HTM) 
+* [Passport index](https://www.passportindex.org/) 
 
 # Widgets
 
 * [Lantern](https://github.com/getlantern/forum#%E8%93%9D%E7%81%AFlantern%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD) 
 * [28-hour scheduler](http://28h.t-animal.de/#.) 
 * [Hit Counter](http://www.reliablecounter.com/) 
-* [Atom](https://atom.io/) # a text editor
-* [gitignore](https://github.com/github/gitignore) # how-to
-* [npm](https://www.npmjs.com/) 
 * [Youtube Video Downloader](http://en.savefrom.net/) 
 * [C to MIPS compiler](http://reliant.colab.duke.edu/c2mips/) #didn't find it useful
-* [discuz!](http://www.discuz.net/forum.php) 
 * [Area 51](http://area51.stackexchange.com/) # Stack Exchange Network staging zone
 * [tg bot API](https://core.telegram.org/bots/api) 
 * [BLUI](https://www.unrealengine.com/zh-CN/blog/blui-html-meets-unreal) # html in unreal 4
-* [proto](https://proto.io/) # creating prototypes
-* [neets](http://neets.cc) # movies
 * [strategyzer](https://strategyzer.com/canvas) # business model on one page
 * [Citation](http://www.easybib.com/) 
-* [XHTML/HTML check](http://validator.w3.org/) 
 * [Death Calendar](http://deathcalendar.com/) # 你度过的人生，[非可视化](http://www.countmydays.com/), [week counter](https://www.timeanddate.com)
 * [繁体电子书](http://haodoo.net/)
 * [unminus](https://www.unminus.com) # Free Music for Your Projects. Royalty Free. No Attribution.
@@ -48,10 +44,6 @@ A collection.
 ## Music
 
 * [七线阁](http://www.dnyyjcw.com/forum.php) 
-
-## Stats I didn't know I wanted to know
-
-[passport index](https://www.passportindex.org/) 
 
 # :-D
 
@@ -71,8 +63,7 @@ A collection.
 
 # Languages
 
-- [BBC语音矫正](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/vowel_short_1.shtml) # British
-- [American Accent Training](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00BBQ74CO/ref=sr_1_1?ie=UTF8&qid=1499176491&sr=8-1&keywords=american+accent+training) # amazon link
+- [BBC语音矫正](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/vowel_short_1.shtml) # British accent
 - [Forvo](https://zh.forvo.com/) # all the words in the world, pronounced
 - [omniglot](http://omniglot.com/) # an encyclopedia of writing system & language
 - [Esperanto](https://en.wikipedia.org/wiki/Esperanto) # a constructed international auxiliary language
