@@ -6,7 +6,14 @@ categories: Apricity
 top: 1000
 ---
 
+<p float="left">
+  <img src="https://img.shields.io/badge/Lan-CN%2FEN-green" /> 
+    <img src="https://img.shields.io/badge/opinions-my%20own-9cf" />
+  <img src="https://img.shields.io/badge/license-by--nc--sa%204.0-ffb9b4" />
+</p>
+
 # Hi There
+
 Welcome welcome! 
 
 你好哇，我是Elisa，这是我的个人博客，我在这里主要使用中文写作。
@@ -14,11 +21,14 @@ Welcome welcome!
 # Articles
 
 * 技术: [Computer Science](http://etsai.site/categories/CS/) 
-* 漫画: [Comics](http://etsai.site/tags/comics/): [my proudest work](https://etsai.site/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/Total-Perspective-Vortex/)).
+
+* 漫画: [Comics](http://etsai.site/tags/comics/): [Total Perspective Vortex (绝对透视漩涡)](https://etsai.site/Total-Perspective-Vortex-EN/) ([Chinese version](https://etsai.site/Total-Perspective-Vortex/)), [Happy International Woman's Day (妇女节快乐)](https://etsai.site/international-woman-s-day/)
+
+  漫画备份：telegram channel: [@elisacomics](https://t.me/elisacomics)
+
 * 绘画/歌曲: [Songs and Paintings](http://etsai.site/categories/Apricity/) 
 * 随笔: [Memo](http://etsai.site/categories/Memo/) 
 * 小收藏: [Entry Stamp](http://etsai.site/tags/entry-stamp/) 
-
 
 All the content in this blog is under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, whatever it means.
 <br />
