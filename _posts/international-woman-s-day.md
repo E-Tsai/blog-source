@@ -15,14 +15,6 @@ categories: Apricity
 
 
 
-邓艾原公众号：阴平小道
-
-
-
-邓艾新公众号：雪豹樱桃
-
-
-
 姑娘们，我也祝愿你们勇于走出一亩三分地，让好奇心带你们探索广阔的世界，见人来人往，见高楼，见江海，见山峰，见星辰宇宙。
 
 
@@ -31,13 +23,13 @@ categories: Apricity
 
 # 漫画
 
-{% asset_img 39-1.jpg %}
-{% asset_img 38-2.jpg %}
-{% asset_img 38-3.jpg %}
-{% asset_img 38-4.jpg %}
-{% asset_img 38-5.jpg %}
-{% asset_img 38-6.jpg %}
+{% asset_img 38-1.JPG %}
+{% asset_img 38-2.JPG %}
+{% asset_img 38-3.JPG %}
+{% asset_img 38-4.JPG %}
+{% asset_img 38-5.JPG %}
+{% asset_img 38-6.JPG %}
 
-{% asset_img 38-7.jpg %}
+{% asset_img 38-7.JPG %}
 
-{% asset_img 38-8.jpg %}
+{% asset_img 38-8.JPG %}
