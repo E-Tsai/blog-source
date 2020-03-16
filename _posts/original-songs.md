@@ -1,5 +1,5 @@
 ---
-title: 人造谎言 (Man-made Lies)
+title: 原创歌曲 Originals
 date: 2019-12-31 22:57:32
 tags: [songs, music, EN, CN]
 categories: Apricity
@@ -11,7 +11,7 @@ categories: Apricity
 
 <!--more-->
 
-## Man-Made Lies
+## Man-Made Lies (人造谎言)
 
 火山喷出熔岩，大陆板块移位，山脉落下又升起；
 
@@ -20,7 +20,6 @@ categories: Apricity
 它们比教堂的钟声更加宏伟。
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/736321615&color=%23a48c6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 {% asset_img salute.jpg %}
 
 ### 歌词
@@ -284,7 +283,6 @@ My dear.
 可点击[这里](https://soundcloud.com/elisastayshere/youre-a-cat)前往SoundCloud下载。
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/670594079&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 ### 歌词
 
 你是长着毛的鳄鱼 
