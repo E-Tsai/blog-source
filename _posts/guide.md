@@ -30,7 +30,12 @@ Welcome welcome!
 
   漫画备份：telegram channel: [@elisacomics](https://t.me/elisacomics) 
 
-* 绘画/歌曲: [Songs and Paintings](http://etsai.site/categories/Apricity/) 
+* 绘画/歌曲: [Songs and Paintings](http://etsai.site/categories/Apricity/):
+
+  * [Chinese Covers](https://etsai.site/Chinese-covers) 
+  * [English Covers](https://etsai.site/English-covers) 
+  * [Japanese Covers](https://etsai.site/Japanese-covers) 
+  * [Original Songs](https://etsai.site/original-songs) 
 
 * 随笔: [Memo](http://etsai.site/categories/Memo/) 
 
