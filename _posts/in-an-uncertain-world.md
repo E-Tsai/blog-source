@@ -2,7 +2,7 @@
 title: 在一个不确定的世界里
 date: 2018-07-08 23:10:38
 tags: [diary, CN]
-categories: Apricity
+categories: Memo
 top: 999
 ---
 
