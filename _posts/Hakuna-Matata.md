@@ -27,6 +27,8 @@ This is my Hakuna Matata, or Hasa Diga Eebowai if you like :)
 
 [Timelapse of the Entire Universe](https://www.youtube.com/watch?v=TBikbn5XJhg&list=PLtDeAt13yqViXreMToGDSwcdNgeWuUBzh&index=54)
 
+[To scale: The Solar System](https://www.youtube.com/watch?v=zR3Igc3Rhfg) 
+
 [Apocalyptic Love Song (For Hitchens)](https://www.youtube.com/watch?v=T6K5mQ_BR6g) 
 
 Let's go to the good 'ol days when my favorite metaphor wasn't kidnapped...
