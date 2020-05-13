@@ -40,8 +40,9 @@ A collection.
 * [Convert curl syntax to Python, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, Rust](https://curl.trillworks.com/) 
 * [Generates HTML code from hand-drawn website mockups](https://github.com/ashnkumar/sketch-code) 
 * [Make custom badges](https://shields.io/category/size/) 
+* [Generative Placeholders](https://generative-placeholders.glitch.me/)
 
-## Music
+##  Music
 
 * [七线阁](http://www.dnyyjcw.com/forum.php) 
 
