@@ -19,6 +19,7 @@ A collection.
 * [A day in the life of Americans](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/?platform=hootsuite) 
 * [Prime Spiral (Ulam Spiral)](https://www.alpertron.com.ar/ULAM.HTM) 
 * [Passport index](https://www.passportindex.org/) 
+* [European globes of the 17–18th centuries](https://www.bl.uk/maps/articles/european-globes-of-the-17th-and-18th-centuries) 
 
 # Widgets
 
@@ -85,6 +86,7 @@ A collection.
 - [Zhen Zhang](http://blog.zhenzhang.me/) 
 - [负一的平方根](http://sqrt-1.me/) 
 - [Hax](http://hax.iteye.com/) 
+- [tinyprojects](https://tinyprojects.dev/posts/tiny_websites_are_great) 
 
 ## Skills
 
