@@ -22,6 +22,8 @@ A collection.
 * [European globes of the 17–18th centuries](https://www.bl.uk/maps/articles/european-globes-of-the-17th-and-18th-centuries) 
 * [PHP history](https://www.jetbrains.com/lp/php-25/) 
 * [Satellite map for starlink](https://satellitemap.space/indexA.html) 
+* [submarine cables](https://www.submarinecablemap.com) 
+* [**CYBERTHREAT** REAL-TIME MAP](https://cybermap.kaspersky.com/)
 
 # Widgets
 
